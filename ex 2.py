@@ -1,2 +1,2 @@
 name = input()
-print('hello,bro', name)rr
+print('hello,bro', name)
